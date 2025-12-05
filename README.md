@@ -18,6 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          |<a href="https://github.com/noor-nas24/SOC-project-/blob/ad5b8112f12571e24d08485ebdae9fa6d8b0b1de/Elastic.pdf">Detection Lab</a>
 | Information security  | <a href="https://github.com/noor-nas24/GRC/blob/ec2948c77cff774406feebe36463abc5a09eec9f/Information%20Security%20Strategy.pdf">Detection Lab </a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
+| Windowsserver Implementation  |<a href="https://github.com/noor-nas24/AD-basic/blob/3e426b31a23d1e4c90d5f21dfd1bd672fbf23e2c/AD..pdf">Detection Lab</a>
 
 <!--
 ## Tools
