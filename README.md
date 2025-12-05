@@ -19,6 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Information security  | <a href="https://github.com/noor-nas24/GRC/blob/ec2948c77cff774406feebe36463abc5a09eec9f/Information%20Security%20Strategy.pdf">Click here </a>|
 | Incident Response Planning and Execution      |  <a href="https://github.com/noor-nas24/GRC/blob/5f3cc98a5c18c7c0da565d3aee9d55897f7a23ef/Information%20Security%20Strategy.pdf"> Click here </a>|
 | Windows server Implementation  |<a href="https://github.com/noor-nas24/AD-basic/blob/3e426b31a23d1e4c90d5f21dfd1bd672fbf23e2c/AD..pdf">Click here</a>
+| vulnerability assessment     |<a href="https://github.com/noor-nas24/tryhackme-labs/blob/a695f9f85286812326a3efdb33b492260a947a88/Nessus.md">Click here</a>
 
 <!--
 ## Tools
