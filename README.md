@@ -10,18 +10,16 @@ I am a recent graduate with a Bachelor's in cybersecurity.
 
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-<!-- 
+
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          |
-| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          |<a href="https://github.com/noor-nas24/SOC-project-/blob/ad5b8112f12571e24d08485ebdae9fa6d8b0b1de/Elastic.pdf">Detection Lab</a>
+| Information security  | <a href="Information Security Strategy.pdf"></a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+<!--
 ## Tools
 
 
